@@ -2,6 +2,7 @@
 
 Este repositorio contiene [Organizador de la Compañía](https://org-black-tau.vercel.app/), una aplicación diseñada para ayudar a gestionar y organizar los empleados de una empresa de manera eficiente. La aplicación proporciona una interfaz intuitiva para acceder rápidamente a la información de los empleados y mantenerla actualizada.
 
+![Pagina](/public\Org.jpeg)
 ## Características
 
 - **Gestión de Empleados:** Accede a la información de todos los empleados de la empresa, incluyendo sus nombres, roles, contactos y otra información relevante.
