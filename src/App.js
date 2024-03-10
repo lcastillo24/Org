@@ -6,6 +6,7 @@ import Formulario from './componentes/Formulario/Formulario';
 import MiOrg from './componentes/MiOrg';
 import Equipo from './componentes/Equipo';
 import Footer from './componentes/Footer';
+import ScrollToTopButton from './componentes/ScrollToTopButton/ScrollToTopButton';
 
 function App() {
   const [mostrarFormulario, actualizarMostrar] = useState(false)
@@ -175,7 +176,7 @@ function App() {
         />
         )
       }
-
+      <ScrollToTopButton />
       <Footer />
 
 
